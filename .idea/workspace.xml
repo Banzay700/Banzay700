@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a70fd531-54ea-491c-bb7b-110595c3f419" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/project-cards/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/project-cards/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +30,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Banzay\\AppData\\Roaming\\npm\\node_modules\\prettier",
     "settings.editor.selected.configurable": "preferences.sourceCode",
@@ -42,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690480332114</updated>
-      <workItem from="1690480337984" duration="282000" />
+      <workItem from="1690480337984" duration="490000" />
     </task>
     <servers />
   </component>
