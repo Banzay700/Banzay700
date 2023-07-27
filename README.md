@@ -10,7 +10,7 @@
 
 <br/>
 <p >
-<img style='padding-top: 25px' src="https://streak-stats.demolab.com?user=Banzay700&theme=darcula&border_radius=4&card_width=450)](https://git.io/streak-stats" alt="GitHub readme stats" align=right >
+<img style='padding-top: 25px' src="https://streak-stats.demolab.com?user=Banzay700&theme=darcula&border_radius=4&card_width=445)](https://git.io/streak-stats" alt="GitHub readme stats" align=right >
 </p>
 
 <br/>
@@ -30,3 +30,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=0.02&pause=300&color=C5671C&vCenter=true&repeat=false&width=368&height=19&lines=-+%E2%9A%A1++What+I'm+studying+now%3A+Next.js" alt="Typing SVG" />
 </p>
 
+[//]: # (Top Projects Section)
+<br/>
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=0.02&pause=300&color=83628E&vCenter=true&repeat=false&width=368&height=20&lines=Pinned+Projects" alt="Typing SVG" />
+</p>
+
+  <p align="center">
+    <a href="https://github.com/Banzay700/project-lost"><img  src="./src/project-cards/01.svg"></a>
+    <a href="https://github.com/Banzay700/FORKIO"><img  src="./src/project-cards/02.svg"></a>
+  </p>
+
+<a href="https://github.com/Banzay700?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
