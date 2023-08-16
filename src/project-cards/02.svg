@@ -81,13 +81,13 @@
             <g transform="translate(0, 0)">
                 <g data-testid="primary-lang">
                     <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#c6538c"/>
-                    <text data-testid="lang-name" class="gray" x="15">SCSS 50.4%</text>
+                    <text data-testid="lang-name" class="gray" x="15">SCSS 42.0%</text>
                 </g>
             </g>
             <g transform="translate(0, 0)">
                 <g data-testid="primary-lang">
                     <circle data-testid="lang-color" cx="135" cy="-5" r="6" fill="#e34c26"/>
-                    <text data-testid="lang-name" class="gray" x="150">HTML 40.1%</text>
+                    <text data-testid="lang-name" class="gray" x="150">HTML 34.8%</text>
                 </g>
             </g>
 
