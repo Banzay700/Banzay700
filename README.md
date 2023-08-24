@@ -37,9 +37,9 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/Banzay700/project-lost"><img width="275" src="./src/project-cards/01.svg"></a>
-    <a href="https://github.com/Banzay700/forkio-landing"><img width="275" src="./src/project-cards/02.svg"></a>
-    <a href="https://github.com/Banzay700/theHam-landing"><img width="275" src="./src/project-cards/03.svg"></a>
+    <a href="https://github.com/Banzay700/project-lost"><img width="278" src="./src/project-cards/01.svg"></a>
+    <a href="https://github.com/Banzay700/forkio-landing"><img width="278" src="./src/project-cards/02.svg"></a>
+    <a href="https://github.com/Banzay700/theHam-landing"><img width="278" src="./src/project-cards/03.svg"></a>
   </p>
 
 <a href="https://github.com/Banzay700?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
