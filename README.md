@@ -17,7 +17,7 @@
 
 <!-- About Me Section -->
 
-<p align="left">
+<p align=>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=0.02&pause=300&color=83628E&vCenter=true&repeat=false&width=368&height=20&lines=About+Me" alt="Typing SVG" />
 </p>
 <p align="left">
