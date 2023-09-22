@@ -15,8 +15,6 @@
 
 <br/>
 
-demolab
-
 <!-- About Me Section -->
 
 <p align="left">
