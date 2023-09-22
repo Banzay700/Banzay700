@@ -15,6 +15,8 @@
 
 <br/>
 
+demolab
+
 <!-- About Me Section -->
 
 <p align="left">
@@ -30,7 +32,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=0.02&pause=300&color=C5671C&vCenter=true&repeat=false&width=368&height=19&lines=-+%E2%9A%A1++What+I'm+studying+now%3A+Next.js" alt="Typing SVG" />
 </p>
 
-[//]: # (Top Projects Section)
+[//]: # 'Top Projects Section'
+
 <br/>
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=0.02&pause=300&color=83628E&vCenter=true&repeat=false&width=368&height=20&lines=Pinned+Projects" alt="Typing SVG" />
