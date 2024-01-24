@@ -27,7 +27,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=0.02&pause=300&color=C36418&vCenter=true&repeat=false&width=368&height=20&lines=-+%F0%9F%96%A5+Favorite+language%3A+TypeScript" alt="Typing SVG" />
 </p>
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=0.02&pause=300&color=C5671C&vCenter=true&repeat=false&width=368&height=19&lines=-+%E2%9A%A1++What+I'm+studying+now%3A+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=0.02&pause=300&color=C5671C&vCenter=true&repeat=false&width=368&height=19&lines=-+%E2%9A%A1++What+I'm+studying+now%3A+Vue.js" alt="Typing SVG" />
 </p>
 
 ### Skills
